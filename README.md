@@ -7,4 +7,4 @@
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-https://github.com/mukulguptamg7/Magic-Brain-api
+ Visit this link for back-end part of Magic-Brain https://github.com/mukulguptamg7/Magic-Brain-api
